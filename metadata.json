@@ -1,0 +1,7 @@
+{
+  "name": "KL AI",
+  "description": "chatbot.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
